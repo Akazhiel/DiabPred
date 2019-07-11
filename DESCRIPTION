@@ -6,7 +6,7 @@ Authors@R: c(person("Jonatan", "Gonzalez", , "jonatan.gonzalez.r@outlook.com", r
     person("Juan R.", "Gonzalez", ,"juanr.gonzalez@isglobal.org", role = c("aut", "cre")))
 Description: Implementation of a deep learning algorith to predict type 2 diabetes from genomic data.
 License: MIT license
-Depends: R (>= 3.5.0), h2o (>= 3.22.1.1)
+Depends: R (>= 3.5.0), h2o (>= 3.22.1.1), SNPRelate
 biocViews:
 Imports:
     SNPRelate
